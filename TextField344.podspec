@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TextField344"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "封装了一个电话号码输入框输入格式为334"
 
   # This description is used to generate tags and improve search results.
@@ -92,8 +92,8 @@ ex: 178 2812 1111
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "TextField334/**/*.{h,m}"
-  s.exclude_files = "TextField334/Exclude"
+  s.source_files  = "TextField344/**/*.{h,m}"
+  s.exclude_files = "TextField344/Exclude"
 
   # s.public_header_files = "/**/*.h"
 
